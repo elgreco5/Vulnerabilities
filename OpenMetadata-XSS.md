@@ -15,7 +15,7 @@ The application fails to properly neutralize user-supplied input that uses alter
 
 ## **Impact**
 
-An attacker may exploit this vulnerability to execute arbitrary JavaScript, steal session tokens, hijack user sessions, manipulate application content, and facilitate phishing or privilege escalation attacks.
+A Cross-Site Scripting (XSS) vulnerability via the description field allows attackers to execute arbitrary JavaScript and access sensitive browser storage, such as JSON Web Tokens (JWT), leading to session hijacking or privilege escalation.
 
 ---
 
