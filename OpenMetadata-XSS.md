@@ -23,19 +23,19 @@ A Cross-Site Scripting (XSS) vulnerability via the description field allows atta
 
 <=1.12.14
 
-
 ---
+
 
 ## **Patched Versions**
 
->=1.13.0
+1.13.0 and above
 
 ---
 
 
 ## **CWE**
 
-* CWE-79
+CWE-79
 
 ---
 
@@ -48,4 +48,4 @@ A Cross-Site Scripting (XSS) vulnerability via the description field allows atta
 
 ## **References**
 
-* CWE-79 - Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+CWE-79 - Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
