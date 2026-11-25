@@ -21,9 +21,17 @@ A Cross-Site Scripting (XSS) vulnerability via the description field allows atta
 
 ## **Affected Versions**
 
-* OpenMetadata up to version 1.12.14
+* <=1.12.14
+
 
 ---
+
+## **Patched Versions**
+
+* >=1.13.0
+
+---
+
 
 ## **CWE**
 
